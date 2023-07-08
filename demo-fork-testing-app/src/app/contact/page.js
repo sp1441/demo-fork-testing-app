@@ -1,6 +1,4 @@
-"use client";
-
-export default function ContactFeature() {
+export default function Contact() {
 
   return (
     <main>
